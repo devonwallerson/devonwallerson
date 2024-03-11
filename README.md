@@ -4,7 +4,7 @@
 
 💼 Incoming Technology Summer Analyst @ Morgan Stanley  
 🌱 Comfortable with ReactJS, Java, Python, C++, and more.  
-👦🏾 Here's my portfolio website - [devonwallerson](https://devonwallerson.github.io/portfolio/) 
+👦🏾 Here's my portfolio website - [devonwallerson](https://devonwallerson.github.io/portfolio/)  
 📲 Check out my LinkedIn here - [linkedin](https://www.linkedin.com/in/devon-wallerson-166391267/) 
 
 </div>
